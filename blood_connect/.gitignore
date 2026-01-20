@@ -3,6 +3,7 @@
 .packages
 .pub-cache/
 build/
+node_modules/
 
 # Android
 android/.gradle/
